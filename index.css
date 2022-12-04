@@ -1,0 +1,68 @@
+.bgimg{
+    background-image: url("https://images3.alphacoders.com/882/882548.jpg");
+    background-size: cover;
+    height:150vh;
+}
+.stylinglogo{
+    width:200px;
+    height: 100px;
+}
+#one{
+    color:white;
+    
+}
+
+.one{
+    color:white;
+    margin-left: 80px;
+}
+.navbar-brand{
+    margin-left: 45px;
+}
+.two{
+    color:white;
+    margin-left: 80px;
+    font-weight:bolder;
+    font-size: 70px;
+}
+.three{
+    color: white;
+    margin-left: 80px;
+    font-size: 36px;
+}
+.four{
+    color:#120E43;
+    margin-left: 80px;
+}
+.five{
+    color:white;
+    margin-left: 80px;
+    font-size: 20px;
+}
+.six{
+    color:#120E43;
+}
+.seven{
+    color:white;
+    margin-left: 80px;
+    font-size: 20px;
+}
+.eight{
+    margin-left: 68px;
+}
+.nine{
+    margin-left: 68px;
+}
+#two{
+    color:white;
+    
+    
+}
+.stylinglogo3{
+    width: 500px;
+    height:200px;
+    margin-left: 80px;
+}
+#three{
+    color: white;
+}
